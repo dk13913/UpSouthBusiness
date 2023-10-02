@@ -1,6 +1,6 @@
 
 <html>
-<Title>UpSouth Chincwad</Title>
+<Title>UpSouth Business</Title>
   <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -68,11 +68,7 @@ body {
   <body> 
   <div class="topnav">
   <a class="active" href="index.html">Home</a>
-  <a href="pettycash.html">Petty Cash</a>
-  <a href="eodreport.html">Daily EoD Report</a>
-  <a href="expenses.html">Expenses</a>
-  <a href="setup.html">Setup</a>
-  <a href="links.html">Imp Links</a>
+  <a href="delivery.html">Delivery</a>
   <a href="others.html">Other</a>
 </div>
 <HR>
